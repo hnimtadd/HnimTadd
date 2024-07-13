@@ -19,7 +19,7 @@
 <ul>
   <p>🌱 I’m currently learning <b>Blockchain, Machine Learning,...</b></p>
   <p>👨‍💻 All of my projects are available at <a href="https://info.craftznake.com/works" _target="blank">info.craftznake.com/works</a></p>
-  <p>📫 Reach me <a href="mailto:minhdat15012002@gmail"/></p>
+  <p>📫 Reach me <a href="mailto:minhdat15012002@gmail">here</a</p>
 </ul>
 
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b></h2>
