@@ -1,4 +1,3 @@
-
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 align="center"><b>Hi , I'm Craftznake </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1></summary>
@@ -17,14 +16,11 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-- 🌱 I’m currently learning **Blockchain, Machine Learning,...**
-
-- 👨‍💻 All of my projects are available at [info.craftznake.com/works](https://info.craftznake.com/works)
-
-- 📫 Reach me [here](mailto:minhdat15012002@gmail.com)
-
-
+<ul>
+  <p>🌱 I’m currently learning <b>Blockchain, Machine Learning,...</b></p>
+  <p>👨‍💻 All of my projects are available at <a href="https://info.craftznake.com/works" _target="blank">info.craftznake.com/works</a></p>
+  <p>📫 Reach me <a href="mailto:minhdat15012002@gmail"/></p>
+</ul>
 
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b></h2>
 <br>
