@@ -26,14 +26,16 @@
   <p>📫 Reach me <a href="mailto:minhdat15012002@gmail">here</a</p>
 </ul>
 
+<!--git hub stats-->
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b></h2>
 <br>
 <div align="center">
-<a href="https://github.com/hnimtadd/">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hnimtadd&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="hnimtadd"/>
-</a>
+  <a href="https://github.com/hnimtadd">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hnimtadd&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="hnimtadd"/>
+  </a>
 </div>
 
+<!--public profile-->
 <h3 align="left">Me on the Internet:</h3>
 <br>
 <p align="center">
