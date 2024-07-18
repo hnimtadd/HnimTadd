@@ -19,10 +19,7 @@
 </div>
 
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <ul>
-  <p>🌱 I’m currently learning <b>Blockchain, Machine Learning,...</b></p>
   <p>👨‍💻 All of my projects are available at <a href="https://info.craftznake.com/works" _target="blank">info.craftznake.com/works</a></p>
   <p>📫 Reach me <a href="mailto:minhdat15012002@gmail">here</a</p>
 </ul>
@@ -42,5 +39,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/hnimtadd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hnimtadd" height="30" width="40" /></a>
   <a href="https://fb.com/hnimtadd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hnimtadd" height="30" width="40" /></a>
-  <a href="https://instagram.com/hnimtadd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hnimtadd" height="30" width="40" /></a>
+  <a href="https://instagram.com/hnimtadd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hnimtadd" height="30" width="40" />
+</a>
 </p>
