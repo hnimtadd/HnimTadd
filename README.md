@@ -20,7 +20,7 @@
 
 <!--horizontal divider(gradiant)-->
 <ul>
-  <p>👨‍💻 All of my projects are available at <a href="https://info.craftznake.com/works" _target="blank">info.craftznake.com/works</a></p>
+  <p>👨‍💻 All of my projects are available at <a href="https://info.craftznake.space/works" _target="blank">info.craftznake.space/works</a></p>
   <p>📫 Reach me <a href="mailto:minhdat15012002@gmail">here</a</p>
 </ul>
 
